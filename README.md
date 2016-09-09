@@ -1,4 +1,2 @@
 # GitHublearning
-tutorial
-
-Aardvark
+CONTENT
